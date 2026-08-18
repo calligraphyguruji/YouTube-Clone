@@ -69,7 +69,7 @@ No installations or dependencies required — this is a pure HTML/CSS project.
 > Add screenshots of your project here to showcase the UI.
 
 ```
-![Homepage Screenshot] UI Screenshots/First-UI-Screenshot.png
+![Homepage Screenshot](UI%20Screenshots/First-UI-SS.png)
 ```
 
 ## 🔮 Future Improvements
@@ -87,7 +87,7 @@ This project is created **solely for educational purposes** to practice HTML and
 ## 👤 Author
 
 **Aman Mishra**
-- GitHub: [@your-username](https://github.com/calligraphyguruji)
+- GitHub: (https://github.com/calligraphyguruji)
 
 ---
 
