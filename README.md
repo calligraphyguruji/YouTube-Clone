@@ -66,10 +66,7 @@ No installations or dependencies required — this is a pure HTML/CSS project.
 
 ## 📸 Screenshots
 
-> Add screenshots of your project here to showcase the UI.
-
-
-**[![Homepage Screenshot](UI%20Screenshots/First-UI-SS.png)](UI%20Screenshots/First-UI-SS.png)
+[![Homepage Screenshot](UI%20Screenshots/First-UI-SS.png)](UI%20Screenshots/First-UI-SS.png)
 
 
 ## 🔮 Future Improvements
