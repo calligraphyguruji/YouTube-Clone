@@ -69,7 +69,7 @@ No installations or dependencies required — this is a pure HTML/CSS project.
 > Add screenshots of your project here to showcase the UI.
 
 ```
-![Homepage Screenshot](./assets/screenshots/homepage.png)
+![Homepage Screenshot] UI Screenshots/First-UI-Screenshot.png
 ```
 
 ## 🔮 Future Improvements
